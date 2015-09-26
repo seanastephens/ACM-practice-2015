@@ -1,10 +1,10 @@
 Name your executable <problem-name>.java
 
 To run examples:
-./run.bash 
+`./run.bash`
 
 To run full test-suite:
-./run.bash test
+`./run.bash test`
 
 To clean up
-./clean.bash
+`./clean.bash`
