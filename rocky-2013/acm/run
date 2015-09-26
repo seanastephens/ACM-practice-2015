@@ -6,7 +6,7 @@
 # run.bash test # all test cases
 #
 
-DIFF_FLAGS="-c3"
+DIFF_FLAGS="-C 3"
 
 PROBLEM_NAME=$(basename $(pwd))
 
