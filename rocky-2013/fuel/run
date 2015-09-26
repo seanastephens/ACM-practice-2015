@@ -10,7 +10,7 @@ DIFF_FLAGS="-c3"
 
 PROBLEM_NAME=$(basename $(pwd))
 
-./clean.bash
+./clean
 
 DIR="example"
 if [[ "$1" == "test" ]] ; then
