@@ -1,4 +1,4 @@
-Name your executable <problem-name>.java
+Name your executable `problem-name.java`
 
 To run examples:
 `./run.bash`
